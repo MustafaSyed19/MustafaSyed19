@@ -10,3 +10,4 @@
 <h3>- 🔭 I’m currently working on a Financial Management App made in Java <br>
 - 🌱 I’m currently learning SQL and Javascript <br>
 - ⚡ Fun fact: I like climbing</h3>
+<!-- ✨ Just became proficient in SQL --!>
