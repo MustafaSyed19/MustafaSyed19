@@ -7,7 +7,7 @@ I'm a **Computer Science student** at York University passionate about building 
 - 🎓 **3rd Year** Computer Science student specializing in software development
 - 💼 **Former Business System Analyst Intern** at Questrade Inc.
 - 🌱 Currently deepening my knowledge in **microservices architecture** and **cloud technologies**
-- 📫 **Contact:** syed132@my.yorku.ca | [LinkedIn](https://www.linkedin.com/in/mustafa-syed-0454a3215/)
+- 📫 **Contact:** mustafasyeed15@gmail.com | [LinkedIn](https://www.linkedin.com/in/mustafa-syed-0454a3215/)
 
 ## 🛠️ Tech Stack
 
@@ -43,4 +43,4 @@ I'm a **Computer Science student** at York University passionate about building 
 Currently seeking **software development internships** to apply my skills and grow as a developer! 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-syed-0454a3215/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syed132@my.yorku.ca)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mustafasyeed15@gmail.com)
